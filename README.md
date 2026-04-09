@@ -47,7 +47,8 @@ MITx-6.431x/
 ├── progress/ 
 │   └── course_progress.pdf 
 │ 
-└── certificate/ └── MITx_6.431x_certificate.pdf   (to be added)
+└── certificate/
+    └── MITx_6.431x_certificate.pdf   (to be added)
 ```
 ---
 
