@@ -84,7 +84,7 @@ Sum (or average) of many independent variables:
 
 → Approximately Normal distribution  
 
-  Even non-normal data becomes normal when aggregated.
+👉 Even non-normal data becomes normal when aggregated.
 
 ---
 
@@ -96,7 +96,7 @@ Describes multiple variables together:
 - Marginal distribution  
 - Conditional distribution  
 
-  Helps analyze relationships between variables.
+👉 Helps analyze relationships between variables.
 
 ---
 
@@ -113,7 +113,7 @@ Describes multiple variables together:
 
 P(A | B) = [P(B | A) P(A)] / P(B)
 
-  Updates probability using new evidence.
+👉 Updates probability using new evidence.
 
 ---
 
