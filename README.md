@@ -45,7 +45,10 @@ MITx-6.431x/
 ├── README.md 
 │ 
 ├── progress/ 
-│   └── course_progress.pdf 
+│   └── course_progress.pdf
+│
+├── notes/ 
+│   └── statistics_key_concepts.md  
 │ 
 └── certificate/
     └── MITx_6.431x_certificate.pdf   (to be added)
