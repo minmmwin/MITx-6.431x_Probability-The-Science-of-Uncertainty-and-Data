@@ -45,7 +45,8 @@ MITx-6.431x/
 ├── README.md 
 │ 
 ├── progress/ 
-│   └── course_progress.pdf
+│   └── Course Progress Apr 2026.pdf
+│   └── Course Progress Final.pdf
 │
 ├── notes/ 
 │   └── statistics_key_concepts.md  
