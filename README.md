@@ -66,7 +66,7 @@ MITx-6.431x/
 
 ## 🎓 Certificate
 
-- Will be added upon course completion  
+- Verified certificate available in this repository   
 
 ---
 
