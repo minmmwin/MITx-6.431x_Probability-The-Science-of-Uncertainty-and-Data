@@ -49,7 +49,7 @@ MITx-6.431x/
 │   └── Course Progress Final.pdf
 │
 ├── notes/ 
-│   └── statistics_key_concepts.md  
+│   └── probability_key_concepts.md  
 │ 
 └── certificate/
     └── MITx_6.431x_certificate.pdf   (to be added)
